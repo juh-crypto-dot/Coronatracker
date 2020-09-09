@@ -144,19 +144,6 @@ public class CityService implements ICityService  {
 				}
 				
 				
-				//String [] cName = tentativa1;
-				
-				//String[] cName = tentativa1[2];				// Existe String.toArray 		
-				//String [] c1Name = String cName;
-					//for (String nA : cName) {	// for ( i = 0; i < tentativa1[2].length; i++) {				//StringBuilder
-					//	if (nA != null && !nA.contains(nA)) {	//!na.equals("nA")
-							
-						//	String nomeDaCidade = nA; 
-						//	System.out.println(nomeDaCidade);
-					//	} else {
-						//	System.out.println("Not working");
-					//	}
-			//	}
 				br.close();
 			}
 		} catch (Exception e) {
